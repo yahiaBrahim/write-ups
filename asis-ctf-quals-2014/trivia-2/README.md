@@ -1,7 +1,7 @@
 # ASIS Cyber Security Contest Quals 2014: Trivia 2
 
 **Category:** Trivia
-**Points:** 60
+**Points:** 10
 **Description:**
 
 > Downtime caused to a website by massive referrals from another popular site.
